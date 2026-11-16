@@ -27,6 +27,19 @@
     repo: https://github.com/ArsyaDika/Arsya-Dika_WEBGIS_SPPG_Final-Project
     demo: https://arsyadika.github.io/Arsya-Dika_WEBGIS_SPPG_Final-Project/
 
+- id: carbon-padi
+  title: Dashboard Emisi Karbon Budidaya Padi
+  question: Seberapa besar emisi gas rumah kaca dari sawah padi di 39 desa di Jawa, dan seberapa jauh praktik baru menurunkannya dibanding praktik konvensional?
+  summary: Peta dan dashboard interaktif untuk 1.267 petani di 1.132 ha lahan, April 2024 sampai Maret 2026. Emisi aktual 4,93 tCO2e/ha dibanding baseline 7,66, atau turun sekitar 36%. Data diolah dengan Python dan disajikan sebagai situs statis.
+  category: WebGIS
+  tools: [MapLibre GL JS, Chart.js, Python, GeoJSON, GitHub Pages]
+  image: assets/img/carbon-dashboard.jpg
+  location: [108.8, -7.15]
+  featured: true
+  links:
+    repo: https://github.com/ArsyaDika/Carbon-Emissions-Dashboard
+    demo: https://arsyadika.github.io/Carbon-Emissions-Dashboard/
+
 - id: rs-mcda-semarang
   title: Pemilihan Lokasi Rumah Sakit Baru (MCDA)
   question: Di mana rumah sakit baru paling dibutuhkan agar layanan kesehatan Semarang lebih merata?

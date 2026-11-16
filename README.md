@@ -2,16 +2,16 @@
 
 **Portfolio: https://arsyadika.github.io/**
 
-Saya mengubah data spasial menjadi keputusan yang bisa ditindaklanjuti. Berlatar belakang pertanian dan analitik data, saya membangun analisis spasial, peta web interaktif, dan otomasi geoprocessing, dari pertanyaan lapangan sampai dashboard yang bisa langsung dibuka siapa pun.
+Halo, saya Dika. Saya senang mengubah tumpukan data lokasi menjadi peta yang langsung bisa dibaca dan dipakai untuk mengambil keputusan. Latar belakang saya di pertanian dan analitik data, jadi saya terbiasa mulai dari pertanyaan nyata di lapangan, lalu mengolah datanya sampai menjadi dashboard yang bisa dibuka siapa pun lewat satu tautan, tanpa instalasi.
 
 ## Proyek unggulan
 
 | Proyek | Hasil | Demo |
 |---|---|---|
-| **Dashboard Emisi Karbon Budidaya Padi** | Memetakan emisi gas rumah kaca di 39 desa di Jawa untuk 1.267 petani (1.132 ha). Emisi aktual 4,93 tCO2e/ha dibanding baseline 7,66, atau turun sekitar 36%. | [Buka dashboard](https://arsyadika.github.io/Carbon-Emissions-Dashboard/) · [Kode](https://github.com/ArsyaDika/Carbon-Emissions-Dashboard) |
-| **WebGIS Keterjangkauan SPPG Kota Semarang** | Isochrone untuk 128 SPPG dan 823 sekolah, ringkasan cakupan per jenjang, dan 5 rekomendasi lokasi baru berbasis grid 1 km. | [Buka peta](https://arsyadika.github.io/Arsya-Dika_WEBGIS_SPPG_Final-Project/) · [Kode](https://github.com/ArsyaDika/Arsya-Dika_WEBGIS_SPPG_Final-Project) |
+| **Dashboard Emisi Karbon Budidaya Padi** | Memperlihatkan emisi gas rumah kaca sawah padi di 39 desa di Jawa, dari 1.267 petani di 1.132 ha lahan. Hasilnya, emisi turun dari 7,66 menjadi 4,93 tCO2e/ha, sekitar 36% lebih rendah dari baseline. | [Buka dashboard](https://arsyadika.github.io/Carbon-Emissions-Dashboard/) · [Kode](https://github.com/ArsyaDika/Carbon-Emissions-Dashboard) |
+| **WebGIS Keterjangkauan SPPG Kota Semarang** | Menjawab sekolah mana yang belum terjangkau 128 SPPG di antara 823 sekolah, lengkap dengan ringkasan per jenjang dan 5 usulan lokasi SPPG baru. | [Buka peta](https://arsyadika.github.io/Arsya-Dika_WEBGIS_SPPG_Final-Project/) · [Kode](https://github.com/ArsyaDika/Arsya-Dika_WEBGIS_SPPG_Final-Project) |
 
-Daftar lengkap studi kasus (analisis multikriteria, kesenjangan layanan kesehatan, kerentanan banjir, bahaya gempa) ada di situs portfolio.
+Masih ada studi kasus lain di situs portfolio, mulai dari analisis multikriteria untuk lokasi rumah sakit, kesenjangan layanan kesehatan, sampai kerentanan banjir dan bahaya gempa.
 
 ## Keahlian
 
@@ -23,9 +23,11 @@ Daftar lengkap studi kasus (analisis multikriteria, kesenjangan layanan kesehata
 
 ## Fokus saat ini
 
-Keberlanjutan dan pertanian, termasuk pemetaan emisi budidaya padi serta analisis keterjangkauan layanan publik.
+Saya sedang mendalami keberlanjutan dan pertanian: bagaimana emisi sawah padi bisa dilihat dan dibandingkan dengan jelas, dan bagaimana layanan publik bisa menjangkau lebih banyak orang.
 
 ## Kontak
+
+Saya terbuka untuk peran GIS Analyst dan WebGIS Developer, serta proyek pemetaan pertanian atau keberlanjutan. Kalau ada yang ingin didiskusikan, saya senang mengobrol.
 
 [LinkedIn](https://www.linkedin.com/in/arsya-dika) · [GitHub](https://github.com/ArsyaDika) · arsyadika25@gmail.com
 

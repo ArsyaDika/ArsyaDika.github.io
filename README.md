@@ -2,41 +2,31 @@
 
 **Portfolio: https://arsyadika.github.io/**
 
-Halo, saya Dika. Saya senang mengubah tumpukan data lokasi menjadi peta yang langsung bisa dibaca dan dipakai untuk mengambil keputusan. Latar belakang saya di pertanian dan analitik data, jadi saya terbiasa mulai dari pertanyaan nyata di lapangan, lalu mengolah datanya sampai menjadi dashboard yang bisa dibuka siapa pun lewat satu tautan, tanpa instalasi.
+Hi, I'm Arsya Dika, and I turn evidence into decisions that companies and communities can feel. With a foundation in agriculture and sustainability, and a steady drive to go deeper into data analytics, I build maps and dashboards that make data easy to read, easy to trust and ready to act on. What I enjoy most is the moment the data leads to a decision that makes a real difference.
 
-## Proyek unggulan
+## Featured projects
 
-| Proyek | Hasil | Demo |
+| Project | What it shows | Links |
 |---|---|---|
-| **Dashboard Emisi Karbon Budidaya Padi** | Memperlihatkan emisi gas rumah kaca sawah padi di 39 desa di Jawa, dari 1.267 petani di 1.132 ha lahan. Hasilnya, emisi turun dari 7,66 menjadi 4,93 tCO2e/ha, sekitar 36% lebih rendah dari baseline. | [Buka dashboard](https://arsyadika.github.io/Carbon-Emissions-Dashboard/) · [Kode](https://github.com/ArsyaDika/Carbon-Emissions-Dashboard) |
-| **WebGIS Keterjangkauan SPPG Kota Semarang** | Menjawab sekolah mana yang belum terjangkau 128 SPPG di antara 823 sekolah, lengkap dengan ringkasan per jenjang dan 5 usulan lokasi SPPG baru. | [Buka peta](https://arsyadika.github.io/Arsya-Dika_WEBGIS_SPPG_Final-Project/) · [Kode](https://github.com/ArsyaDika/Arsya-Dika_WEBGIS_SPPG_Final-Project) |
+| **Rice Farming Carbon Emissions Dashboard** | Greenhouse gas emissions from rice paddies across 39 villages in Java, covering 1,267 farmers on 1,132 ha. Emissions drop from 7.66 to 4.93 tCO2e/ha, about 36% below the baseline. | [Open dashboard](https://arsyadika.github.io/Carbon-Emissions-Dashboard/) · [Code](https://github.com/ArsyaDika/Carbon-Emissions-Dashboard) |
+| **SPPG Accessibility WebGIS, Semarang** | Which of 823 schools still fall outside the reach of 128 community nutrition kitchens (SPPG), with a coverage summary by school level and 5 proposed sites for new kitchens. | [Open map](https://arsyadika.github.io/Arsya-Dika_WEBGIS_SPPG_Final-Project/) · [Code](https://github.com/ArsyaDika/Arsya-Dika_WEBGIS_SPPG_Final-Project) |
 
-Masih ada studi kasus lain di situs portfolio, mulai dari analisis multikriteria untuk lokasi rumah sakit, kesenjangan layanan kesehatan, sampai kerentanan banjir dan bahaya gempa.
+More case studies live on the portfolio site, from multi-criteria hospital siting and healthcare service gaps to flood vulnerability and global earthquake hazard.
 
-## Keahlian
+## Skills
 
 - **Desktop GIS:** QGIS, ArcGIS Pro
 - **WebGIS:** MapLibre GL JS, Turf.js, Chart.js
 - **Python:** GeoPandas, Shapely, pandas, Folium
-- **Data dan API:** OpenStreetMap, OpenRouteService, MAPID, WFS
-- **Otomasi:** GitHub Actions, script Python
+- **Data and APIs:** OpenStreetMap, OpenRouteService, MAPID, WFS
+- **Automation:** GitHub Actions, Python scripts
 
-## Fokus saat ini
+## What I'm exploring now
 
-Saya sedang mendalami keberlanjutan dan pertanian: bagaimana emisi sawah padi bisa dilihat dan dibandingkan dengan jelas, dan bagaimana layanan publik bisa menjangkau lebih banyak orang.
+Sustainability and agriculture: how rice-field emissions can be seen and compared clearly, and how public services can reach more people.
 
-## Kontak
+## Get in touch
 
-Saya terbuka untuk peran GIS Analyst dan WebGIS Developer, serta proyek pemetaan pertanian atau keberlanjutan. Kalau ada yang ingin didiskusikan, saya senang mengobrol.
+I'm open to GIS Analyst and WebGIS Developer roles, as well as agriculture and sustainability mapping projects. If you have something in mind, I'd love to talk.
 
 [LinkedIn](https://www.linkedin.com/in/arsya-dika) · [GitHub](https://github.com/ArsyaDika) · arsyadika25@gmail.com
-
----
-
-### Catatan pengelola situs
-
-Situs ini adalah satu halaman statis tanpa proses build. Untuk menambah proyek: simpan gambar preview di `assets/img/`, tambahkan satu blok di `projects.yml`, lalu commit dan push. GitHub Pages memperbarui situs dalam 1 sampai 2 menit. Workflow di bagian "Otomasi" diatur lewat `automation.yml`.
-
-Menjalankan lokal: `python -m http.server 8000`, lalu buka http://localhost:8000.
-
-Teknologi: HTML, CSS, JavaScript · MapLibre GL JS · js-yaml · OpenFreeMap
